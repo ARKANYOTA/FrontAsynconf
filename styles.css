@@ -1,0 +1,40 @@
+@font-face {
+	font-family: "Merry";
+	src: url('ChristmasBell.otf');
+}
+
+body{
+    background-image: url(Rec/tree.jpg);
+    color: darkred;
+    
+}
+
+h1{
+    text-shadow: -5px 0 black, 0 5px black, 5px 0 black, 0 -5px black;
+    font-family: "Merry", Helvetica;
+    font-size: 100px;
+    text-align: center;
+}
+h4{
+    text-shadow: -5px 0 black, 0 5px black, 5px 0 black, 0 -5px black;
+    font-family: "Merry", Helvetica;
+    font-size: 50px;
+    text-align: center;
+    
+
+}
+footer{
+    position: fixed;
+    bottom : 0;
+    right: 0px;
+
+    background-color: #ff0000;
+    left:0;
+}
+
+.class-footer{
+    text-align: right;
+    right: 0px;
+}
+
+
